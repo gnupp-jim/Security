@@ -33,14 +33,9 @@
     "Microsoft.Extensions.WebEncoders": "1.0.0"
   },
   "frameworks": {
-    "net451": {
+    "net461": {
       "frameworkAssemblies": {
         "System.Net.Http": ""
-      }
-    },
-    "netstandard1.3": {
-      "dependencies": {
-        "System.Net.Http": "4.1.0"
       }
     }
   }
